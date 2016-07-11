@@ -6,7 +6,7 @@ import java.math.RoundingMode;
 public class MyClass {
 
     public static void main(String args[]) {
-        Double m_input = 53.5;
+        Double m_input = 53.7;
         check_ruble(m_input);
 
 
